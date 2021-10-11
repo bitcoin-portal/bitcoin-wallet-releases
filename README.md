@@ -1,3 +1,4 @@
 ## Bitcoin.com Wallet Releases
 
-Includes APK, DMG, EXE for Bitcoin.com wallet. 
+Android APKs for Bitcoin.com wallet. 
+https://play.google.com/store/apps/details?id=com.bitcoin.mwallet
